@@ -1,0 +1,1 @@
+grep -i error /home/rochak/mylog.log
