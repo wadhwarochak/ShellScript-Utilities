@@ -1,1 +1,1 @@
-I am using this repository to maintain collectio of various Shell Script Utilities
+I am using this repository to maintain collection of various Shell Script Utilities
